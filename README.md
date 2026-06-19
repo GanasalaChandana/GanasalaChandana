@@ -8,7 +8,7 @@ Full-Stack Developer specializing in scalable backend systems and modern web app
 
 ### [ShopFlow — Event-Driven E-Commerce API](https://github.com/GanasalaChandana/Event-Driven-E-Commerce)
 Production-grade e-commerce backend built as a Spring Boot monolith with 4 domain services (User, Product, Order, Inventory). Features JWT auth, Kafka event flow, email notifications via Resend, IP rate limiting, and a full admin dashboard.  
-**Live:** https://event-driven-e-commerce.onrender.com | **Stack:** Java 17, Spring Boot 3, PostgreSQL, Kafka, Docker
+**Live:** https://event-driven-e-commerce.onrender.com/swagger-ui.html | **Stack:** Java 17, Spring Boot 3, PostgreSQL, Kafka, Docker
 
 ---
 
