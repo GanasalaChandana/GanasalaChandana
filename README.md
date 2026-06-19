@@ -47,7 +47,6 @@ Personal finance platform with AI-driven insights, expense tracking, and financi
 
 ## 📊 GitHub Stats
 
-![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GanasalaChandana&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GanasalaChandana&layout=compact&theme=github_dark&hide_border=true)
 
 ---
