@@ -14,13 +14,13 @@ Production-grade e-commerce backend built as a Spring Boot monolith with 4 domai
 
 ### [ResearchMind — AI Research Assistant](https://github.com/GanasalaChandana/Researchmind)
 Multi-agent AI research platform with streaming responses, knowledge graph visualization, report generation, and session history.  
-**Stack:** TypeScript, Next.js, Claude API
+**Live:** https://researchmind-app.vercel.app/ | **Stack:** TypeScript, Next.js, Claude API
 
 ---
 
 ### [FinTrack — AI-Powered Finance Platform](https://github.com/GanasalaChandana/FinTrack-AI-Powered-Personal-Finance-Platform)
 Personal finance platform with AI-driven insights, expense tracking, and financial analytics.  
-**Stack:** TypeScript, Next.js
+**Live:** https://fintrack-liart.vercel.app/ | **Stack:** TypeScript, Next.js
 
 ---
 
