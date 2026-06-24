@@ -6,9 +6,16 @@ Full-Stack Developer specializing in scalable backend systems and modern web app
 
 ## 🚀 Featured Projects
 
-### [ShopFlow — Event-Driven E-Commerce API](https://github.com/GanasalaChandana/Event-Driven-E-Commerce)
-Production-grade e-commerce backend built as a Spring Boot monolith with 4 domain services (User, Product, Order, Inventory). Features JWT auth, Kafka event flow, email notifications via Resend, IP rate limiting, and a full admin dashboard.  
-**Live:** https://event-driven-e-commerce.onrender.com/swagger-ui.html | **Stack:** Java 17, Spring Boot 3, PostgreSQL, Kafka, Docker
+### [ShopFlow — Full-Stack E-Commerce Platform](https://github.com/GanasalaChandana/Event-Driven-E-Commerce)
+Full-stack e-commerce platform with a Next.js frontend and Spring Boot microservices backend. Features JWT auth, Kafka event flow, email notifications, IP rate limiting, admin dashboard, product catalog, order management, and inventory tracking.
+
+| | |
+|---|---|
+| 🛍️ Live App | https://event-driven-e-commerce.vercel.app |
+| ⚙️ REST API | https://event-driven-e-commerce.onrender.com *(may take ~60s to wake up)* |
+| 📖 Swagger UI | https://event-driven-e-commerce.onrender.com/swagger-ui.html |
+
+**Stack:** Next.js · Java 17 · Spring Boot 3 · PostgreSQL · Kafka · Docker · Tailwind CSS
 
 ---
 
